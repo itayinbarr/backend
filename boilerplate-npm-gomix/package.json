@@ -1,5 +1,6 @@
 {
-	"name": "Itay Inbar",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Itay Inbar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
